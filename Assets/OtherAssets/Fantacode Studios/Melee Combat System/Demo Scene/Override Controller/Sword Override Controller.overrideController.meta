@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06caa72ee173d9649bcb20f396658ea4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262354
+  packageName: FS - Melee Combat System
+  packageVersion: 2.0.6
+  assetPath: Assets/Fantacode Studios/Melee Combat System/Demo Scene/Override Controller/Sword
+    Override Controller.overrideController
+  uploadId: 831764

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 029d1c933ab14c14fb48925924d1dbae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327693
+  packageName: FS Shooter System
+  packageVersion: 1.2
+  assetPath: Assets/Fantacode Studios/Shooter System/Scripts/Shooter/ShooterBoneDamageHandler.cs
+  uploadId: 831792

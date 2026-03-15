@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47ccb0ec3efbdba45b3a3a0865d2f52f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262354
+  packageName: FS - Melee Combat System
+  packageVersion: 2.0.6
+  assetPath: Assets/Fantacode Studios/Melee Combat System/Game/Animator/Combat Controller.controller
+  uploadId: 831764

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7bf6e48ba19815d4e9dc73e373b8edf5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327693
+  packageName: FS Shooter System
+  packageVersion: 1.2
+  assetPath: Assets/Fantacode Studios/Shooter System/Scripts/ShooterAI/ShooterAIController.cs
+  uploadId: 831792

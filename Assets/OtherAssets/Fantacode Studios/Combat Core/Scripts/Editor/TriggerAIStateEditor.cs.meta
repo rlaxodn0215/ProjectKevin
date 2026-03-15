@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a001848ab82d6b84b80bab49a25bb50f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262354
+  packageName: FS - Melee Combat System
+  packageVersion: 2.0.6
+  assetPath: Assets/Fantacode Studios/Combat Core/Scripts/Editor/TriggerAIStateEditor.cs
+  uploadId: 831764

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c0b5f221ea995442b9d11dc526de1c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327693
+  packageName: FS Shooter System
+  packageVersion: 1.2
+  assetPath: Assets/Fantacode Studios/Shooter System/Particles/EffectExamples/Weapon
+    Effects/Prefabs/WoodImpacts.prefab
+  uploadId: 831792

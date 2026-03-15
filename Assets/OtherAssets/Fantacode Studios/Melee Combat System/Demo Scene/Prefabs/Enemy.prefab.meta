@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e869754a42e95cb41bb2559503b70fb7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262354
+  packageName: FS - Melee Combat System
+  packageVersion: 2.0.6
+  assetPath: Assets/Fantacode Studios/Melee Combat System/Demo Scene/Prefabs/Enemy.prefab
+  uploadId: 831764

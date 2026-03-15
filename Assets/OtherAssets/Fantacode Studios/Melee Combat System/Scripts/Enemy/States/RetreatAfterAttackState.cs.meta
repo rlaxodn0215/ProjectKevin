@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5b4d3d256d11ac549962d0bd26412524
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262354
+  packageName: FS - Melee Combat System
+  packageVersion: 2.0.6
+  assetPath: Assets/Fantacode Studios/Melee Combat System/Scripts/Enemy/States/RetreatAfterAttackState.cs
+  uploadId: 831764

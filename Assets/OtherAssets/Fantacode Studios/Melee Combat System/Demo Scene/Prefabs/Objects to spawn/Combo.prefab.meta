@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38f0245105f8df64bb613deb63db8d8d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262354
+  packageName: FS - Melee Combat System
+  packageVersion: 2.0.6
+  assetPath: Assets/Fantacode Studios/Melee Combat System/Demo Scene/Prefabs/Objects
+    to spawn/Combo.prefab
+  uploadId: 831764

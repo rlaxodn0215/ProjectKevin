@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8f794bda8a18c84ea47b289dd5323a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262354
+  packageName: FS - Melee Combat System
+  packageVersion: 2.0.6
+  assetPath: Assets/Fantacode Studios/Melee Combat System/Character/Materials/M_Armature_Body.mat
+  uploadId: 831764

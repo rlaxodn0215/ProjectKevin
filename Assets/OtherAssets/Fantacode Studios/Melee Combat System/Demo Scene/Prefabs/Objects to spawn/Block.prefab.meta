@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: daebc2206d7e12c469501fc785f9d135
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262354
+  packageName: FS - Melee Combat System
+  packageVersion: 2.0.6
+  assetPath: Assets/Fantacode Studios/Melee Combat System/Demo Scene/Prefabs/Objects
+    to spawn/Block.prefab
+  uploadId: 831764

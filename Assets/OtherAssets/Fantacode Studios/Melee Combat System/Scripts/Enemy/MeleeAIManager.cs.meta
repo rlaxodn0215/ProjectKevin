@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b43e9f4f9cf8b37418869997928a744f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262354
+  packageName: FS - Melee Combat System
+  packageVersion: 2.0.6
+  assetPath: Assets/Fantacode Studios/Melee Combat System/Scripts/Enemy/MeleeAIManager.cs
+  uploadId: 831764
